@@ -198,17 +198,3 @@ If you encounter any issues or have questions:
 *Made with ❤️ using React, Three.js, and TypeScript*
 ```
 
-This README provides comprehensive documentation for your Snake Master 3D game, including:
-
-- **Clear project overview** with badges and features
-- **Step-by-step installation** instructions
-- **Detailed gameplay** instructions and tips
-- **Complete technology stack** information
-- **Project structure** breakdown
-- **Configuration options** for customization
-- **Performance optimization** details
-- **Contributing guidelines** for open source
-- **Support information** for users
-
-The README is well-structured with emojis, code blocks, tables, and clear sections that make it easy to navigate and understand the project.
-
